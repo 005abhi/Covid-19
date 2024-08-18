@@ -1,1 +1,3 @@
+ COVID-19
+
 The COVID-19 project is a comprehensive online platform dedicated to delivering vital information on COVID-19 and vaccination efforts. This web application offers crucial resources related to COVID-19 vaccination, featuring a home page that outlines precautionary measures to prevent the spread of the virus. The vaccination information page provides in-depth details on preventive strategies, symptom recognition, and dispels common myths. Additionally, the platform includes an intuitive form page where users can register their vaccination details. The entire site is built with a responsive design using Bootstrap, ensuring seamless accessibility across all devices.
